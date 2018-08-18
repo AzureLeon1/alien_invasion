@@ -8,9 +8,9 @@ class Settings():
         self.screen_height = 800
         self.bg_color = (230, 230, 230)
 
-        # # Ship settings.
-        # self.ship_speed_factor = 1.5
-        #
+        # 飞船的设置
+        self.ship_speed_factor = 4.5
+
         # # Bullet settings.
         # self.bullet_speed_factor = 1
         # self.bullet_width = 3
